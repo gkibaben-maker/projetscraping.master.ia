@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 *.swp
 *.deb
+app.py.backup
+app.py.before_gaaraas
+books-toscrape-com-2026-08-14.csv
